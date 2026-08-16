@@ -1,0 +1,80 @@
+{
+  "schedule_rows": [
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U12.2G",
+      "opponent": "Cambridge United",
+      "competition": "League",
+      "match_status": "pending",
+      "pitch": "Herbert Park - Donnybrook",
+      "kickoff_time": "12:00",
+      "referee": null,
+      "review_flags": ["Ref TBD"],
+      "off_reason_code": null,
+      "off_reason": null,
+      "belmont_manager_status": "pending",
+      "belmont_manager_contact": "aaron.grunewald+n8n_manager_c_walsh@gmail.com",
+      "belmont_manager_sent_at": "2026-09-01T18:15:00+01:00",
+      "belmont_manager_last_reminder_at": null,
+      "opposition_status": "confirmed",
+      "opposition_contact": "aaron.grunewald+n8n_opposition_cambridge@gmail.com",
+      "opposition_sent_at": "2026-09-03T09:00:00+01:00",
+      "opposition_last_reminder_at": null,
+      "updated_at": "2026-09-03T10:20:00+01:00"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U16.1",
+      "opponent": "Joeys FC",
+      "competition": "Cup QF",
+      "match_status": "pending",
+      "pitch": "Herbert Park - Ballsbridge",
+      "kickoff_time": "13:30",
+      "referee": "M. Keane",
+      "review_flags": [],
+      "off_reason_code": null,
+      "off_reason": null,
+      "belmont_manager_status": "pending",
+      "belmont_manager_contact": "aaron.grunewald+n8n_manager_l_brennan@gmail.com",
+      "belmont_manager_sent_at": "2026-09-01T18:15:00+01:00",
+      "belmont_manager_last_reminder_at": "2026-09-03T18:15:00+01:00",
+      "opposition_status": "pending",
+      "opposition_contact": "aaron.grunewald+n8n_opposition_joeys@gmail.com",
+      "opposition_sent_at": "2026-09-03T09:00:00+01:00",
+      "opposition_last_reminder_at": null,
+      "updated_at": "2026-09-03T18:15:00+01:00"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U16.6",
+      "opponent": "Rathmines Athletic",
+      "competition": "League",
+      "match_status": "off",
+      "pitch": null,
+      "kickoff_time": null,
+      "referee": null,
+      "review_flags": [],
+      "off_reason_code": "match_off_request",
+      "off_reason": "Belmont cannot field a full squad this week.",
+      "belmont_manager_status": "not_required",
+      "belmont_manager_contact": "aaron.grunewald+n8n_manager_m_oconnor@gmail.com",
+      "belmont_manager_sent_at": null,
+      "belmont_manager_last_reminder_at": null,
+      "opposition_status": "not_required",
+      "opposition_contact": "aaron.grunewald+n8n_opposition_rathmines@gmail.com",
+      "opposition_sent_at": null,
+      "opposition_last_reminder_at": null,
+      "updated_at": "2026-09-01T18:15:00+01:00"
+    }
+  ],
+  "status_query_examples": [
+    {
+      "query": "What is the status of U16.1?",
+      "expected_answer": "U16.1 vs Joeys FC is pending for Herbert Park - Ballsbridge at 13:30. Belmont manager and opposition confirmations are still pending."
+    },
+    {
+      "query": "Which confirmations are overdue?",
+      "expected_answer": "U12.2G Belmont manager and U16.1 Belmont manager are overdue based on the 48-hour reminder rule."
+    }
+  ]
+}

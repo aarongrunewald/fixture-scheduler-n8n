@@ -1,0 +1,95 @@
+{
+  "match_day": "2026-09-06",
+  "fixtures": [
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U10.2",
+      "age_group": "U10",
+      "competition": "League",
+      "opponent": "Rathmines Athletic",
+      "home_away": "home",
+      "referee_name": "J. Byrne"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U12.2G",
+      "age_group": "U12",
+      "competition": "League",
+      "opponent": "Cambridge United",
+      "home_away": "home",
+      "referee_name": null
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U13.3G",
+      "age_group": "U13",
+      "competition": "League",
+      "opponent": "Terenure Rangers",
+      "home_away": "home",
+      "referee_name": "J. Byrne"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U13.4",
+      "age_group": "U13",
+      "competition": "League",
+      "opponent": "Lucan Park",
+      "home_away": "home",
+      "referee_name": "J. Byrne"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U14.3",
+      "age_group": "U14",
+      "competition": "League",
+      "opponent": "Ranelagh FC",
+      "home_away": "home",
+      "referee_name": "T. Dooley"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U14.5",
+      "age_group": "U14",
+      "competition": "League",
+      "opponent": "Orwell Celtic",
+      "home_away": "home",
+      "referee_name": null
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U15.3",
+      "age_group": "U15",
+      "competition": "League",
+      "opponent": "St Kevins Boys",
+      "home_away": "home",
+      "referee_name": "T. Dooley"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U16.1",
+      "age_group": "U16",
+      "competition": "Cup QF",
+      "opponent": "Joeys FC",
+      "home_away": "home",
+      "referee_name": "M. Keane"
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U16.6",
+      "age_group": "U16",
+      "competition": "League",
+      "opponent": "Rathmines Athletic",
+      "home_away": "home",
+      "referee_name": null
+    },
+    {
+      "match_day": "2026-09-06",
+      "team_id": "U17.5",
+      "age_group": "U17",
+      "competition": "League",
+      "opponent": "Terenure Rangers",
+      "home_away": "home",
+      "referee_name": "M. Keane"
+    }
+  ]
+}

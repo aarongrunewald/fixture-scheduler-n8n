@@ -1,0 +1,49 @@
+{
+  "pitches": [
+    {
+      "pitch_id": "HP-BALLSBRIDGE",
+      "name": "Herbert Park - Ballsbridge",
+      "pitch_group": "Herbert Park",
+      "formats_supported": ["11v11"],
+      "earliest_ko": "12:00",
+      "latest_ko": "15:00",
+      "notes": "Preferred senior pitch; later start because of park availability."
+    },
+    {
+      "pitch_id": "HP-DONNYBROOK",
+      "name": "Herbert Park - Donnybrook",
+      "pitch_group": "Herbert Park",
+      "formats_supported": ["9v9", "11v11"],
+      "earliest_ko": "09:00",
+      "latest_ko": "15:00",
+      "notes": "Flexible pitch for 9v9 and 11v11 matches."
+    },
+    {
+      "pitch_id": "HP-MIDDLE-1",
+      "name": "Herbert Park - Middle 1",
+      "pitch_group": "Herbert Park",
+      "formats_supported": ["7v7"],
+      "earliest_ko": "09:00",
+      "latest_ko": "14:00",
+      "notes": "Small-sided pitch."
+    },
+    {
+      "pitch_id": "HP-MIDDLE-2",
+      "name": "Herbert Park - Middle 2",
+      "pitch_group": "Herbert Park",
+      "formats_supported": ["7v7"],
+      "earliest_ko": "09:00",
+      "latest_ko": "14:00",
+      "notes": "Small-sided pitch."
+    },
+    {
+      "pitch_id": "BRICKFIELD",
+      "name": "Brickfield",
+      "pitch_group": "Brickfield",
+      "formats_supported": ["11v11"],
+      "earliest_ko": "09:00",
+      "latest_ko": "15:00",
+      "notes": "Secondary 11v11 pitch when Herbert Park capacity is tight."
+    }
+  ]
+}

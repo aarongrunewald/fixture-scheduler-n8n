@@ -1,0 +1,40 @@
+{
+  "age_group_rules": {
+    "U10": {
+      "format": "7v7",
+      "match_duration_min": 50
+    },
+    "U11": {
+      "format": "7v7",
+      "match_duration_min": 50
+    },
+    "U12": {
+      "format": "9v9",
+      "match_duration_min": 60
+    },
+    "U13": {
+      "format": "9v9",
+      "match_duration_min": 60
+    },
+    "U14": {
+      "format": "11v11",
+      "match_duration_min": 70
+    },
+    "U15": {
+      "format": "11v11",
+      "match_duration_min": 70
+    },
+    "U16": {
+      "format": "11v11",
+      "match_duration_min": 80
+    },
+    "U17": {
+      "format": "11v11",
+      "match_duration_min": 90
+    },
+    "U18": {
+      "format": "11v11",
+      "match_duration_min": 90
+    }
+  }
+}

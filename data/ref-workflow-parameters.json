@@ -1,0 +1,40 @@
+{
+  "workflow_parameters": [
+    {
+      "parameter_name": "fixture_cutoff_day",
+      "parameter_value": "Tuesday"
+    },
+    {
+      "parameter_name": "fixture_cutoff_time",
+      "parameter_value": "14:00"
+    },
+    {
+      "parameter_name": "preferred_ko_earliest",
+      "parameter_value": "10:00"
+    },
+    {
+      "parameter_name": "preferred_ko_latest",
+      "parameter_value": "13:30"
+    },
+    {
+      "parameter_name": "halftime_duration_min",
+      "parameter_value": 5
+    },
+    {
+      "parameter_name": "game_spacing_min",
+      "parameter_value": 10
+    },
+    {
+      "parameter_name": "manager_confirmation_deadline",
+      "parameter_value": "Wednesday 14:00"
+    },
+    {
+      "parameter_name": "opposition_confirmation_day",
+      "parameter_value": "Thursday"
+    },
+    {
+      "parameter_name": "reminder_after_hours",
+      "parameter_value": 48
+    }
+  ]
+}

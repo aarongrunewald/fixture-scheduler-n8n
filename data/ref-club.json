@@ -1,0 +1,13 @@
+{
+  "club": {
+    "name": "Belmont FC",
+    "fixture_scope": "Sunday home fixtures",
+    "fixture_secretary": {
+      "name": "Fixture Secretary",
+      "phone_number": "+353870000001",
+      "email": "aaron.grunewald+n8n_fixture_secretary@gmail.com"
+    },
+    "belmont_managers_group": "Sunday Fixtures",
+    "belmont_managers_group_email": "aaron.grunewald+n8n_sunday_fixtures_group@gmail.com"
+  }
+}
