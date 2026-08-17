@@ -1,0 +1,94 @@
+{
+  "managers": [
+    {
+      "manager_id": "M001",
+      "manager_name": "A. Murphy",
+      "manager_phone_number": "+353870001001",
+      "manager_email": "aaron.grunewald+n8n_manager_a_murphy@gmail.com"
+    },
+    {
+      "manager_id": "M002",
+      "manager_name": "B. Nolan",
+      "manager_phone_number": "+353870001002",
+      "manager_email": "aaron.grunewald+n8n_manager_b_nolan@gmail.com"
+    },
+    {
+      "manager_id": "M003",
+      "manager_name": "C. Walsh",
+      "manager_phone_number": "+353870001003",
+      "manager_email": "aaron.grunewald+n8n_manager_c_walsh@gmail.com"
+    },
+    {
+      "manager_id": "M004",
+      "manager_name": "D. Ryan",
+      "manager_phone_number": "+353870001004",
+      "manager_email": "aaron.grunewald+n8n_manager_d_ryan@gmail.com"
+    },
+    {
+      "manager_id": "M005",
+      "manager_name": "E. Byrne",
+      "manager_phone_number": "+353870001005",
+      "manager_email": "aaron.grunewald+n8n_manager_e_byrne@gmail.com"
+    },
+    {
+      "manager_id": "M006",
+      "manager_name": "F. O'Shea",
+      "manager_phone_number": "+353870001006",
+      "manager_email": "aaron.grunewald+n8n_manager_f_oshea@gmail.com"
+    },
+    {
+      "manager_id": "M007",
+      "manager_name": "G. Kelly",
+      "manager_phone_number": "+353870001007",
+      "manager_email": "aaron.grunewald+n8n_manager_g_kelly@gmail.com"
+    },
+    {
+      "manager_id": "M008",
+      "manager_name": "H. Doyle",
+      "manager_phone_number": "+353870001008",
+      "manager_email": "aaron.grunewald+n8n_manager_h_doyle@gmail.com"
+    },
+    {
+      "manager_id": "M009",
+      "manager_name": "I. Quinn",
+      "manager_phone_number": "+353870001009",
+      "manager_email": "aaron.grunewald+n8n_manager_i_quinn@gmail.com"
+    },
+    {
+      "manager_id": "M010",
+      "manager_name": "J. Lyons",
+      "manager_phone_number": "+353870001010",
+      "manager_email": "aaron.grunewald+n8n_manager_j_lyons@gmail.com"
+    },
+    {
+      "manager_id": "M011",
+      "manager_name": "K. Moore",
+      "manager_phone_number": "+353870001011",
+      "manager_email": "aaron.grunewald+n8n_manager_k_moore@gmail.com"
+    },
+    {
+      "manager_id": "M012",
+      "manager_name": "L. Brennan",
+      "manager_phone_number": "+353870001012",
+      "manager_email": "aaron.grunewald+n8n_manager_l_brennan@gmail.com"
+    },
+    {
+      "manager_id": "M013",
+      "manager_name": "M. O'Connor",
+      "manager_phone_number": "+353870001013",
+      "manager_email": "aaron.grunewald+n8n_manager_m_oconnor@gmail.com"
+    },
+    {
+      "manager_id": "M014",
+      "manager_name": "N. Gallagher",
+      "manager_phone_number": "+353870001014",
+      "manager_email": "aaron.grunewald+n8n_manager_n_gallagher@gmail.com"
+    },
+    {
+      "manager_id": "M015",
+      "manager_name": "O. Flynn",
+      "manager_phone_number": "+353870001015",
+      "manager_email": "aaron.grunewald+n8n_manager_o_flynn@gmail.com"
+    }
+  ]
+}

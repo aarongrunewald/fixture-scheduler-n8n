@@ -1,0 +1,12 @@
+{
+  "status_queries": [
+    {
+      "query_text": "What is the status of U16.1?",
+      "expected_answer": "U16.1 vs Joeys FC is pending for Herbert Park - Ballsbridge at 13:30. Manager and opposition confirmations are still pending."
+    },
+    {
+      "query_text": "Which confirmations are overdue?",
+      "expected_answer": "U12.2G manager and U16.1 manager are overdue based on the 48-hour reminder rule."
+    }
+  ]
+}

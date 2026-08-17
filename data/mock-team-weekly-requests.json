@@ -1,0 +1,25 @@
+{
+  "team_weekly_requests": [
+    {
+      "match_date": "2026-09-06",
+      "team_id": "U16.6",
+      "request_type": "match_off",
+      "request_source": "manager",
+      "request_notes": "Belmont cannot field a full squad this week."
+    },
+    {
+      "match_date": "2026-09-06",
+      "team_id": "U14.5",
+      "request_type": "timing",
+      "request_source": "manager",
+      "request_notes": "Avoid kickoff before 11:30 if possible."
+    },
+    {
+      "match_date": "2026-09-06",
+      "team_id": "U17.5",
+      "request_type": "match_off",
+      "request_source": "opposition",
+      "request_notes": "Opposition has stated the match is off this week."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "season_history": [
+    {
+      "team_id": "U10.2",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 4
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 0
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 4
+    },
+    {
+      "team_id": "U12.2G",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 3
+    },
+    {
+      "team_id": "U13.3G",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 4
+    },
+    {
+      "team_id": "U13.4",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 2
+    },
+    {
+      "team_id": "U14.3",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 4
+    },
+    {
+      "team_id": "U14.5",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 0
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 4
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 2
+    },
+    {
+      "team_id": "U15.3",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 3
+    },
+    {
+      "team_id": "U16.1",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 2
+    },
+    {
+      "team_id": "U16.6",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 4
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 0
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 4
+    },
+    {
+      "team_id": "U17.5",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 1
+    },
+    {
+      "team_id": "U18.4",
+      "pitch_distribution": [
+        {
+          "pitch_group": "Herbert Park",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Brickfield",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "Other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 0
+    }
+  ]
+}

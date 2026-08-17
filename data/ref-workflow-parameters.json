@@ -1,35 +1,39 @@
 {
   "workflow_parameters": [
     {
-      "parameter_name": "fixture_cutoff_day",
+      "parameter_name": "match_cutoff_weekday",
       "parameter_value": "Tuesday"
     },
     {
-      "parameter_name": "fixture_cutoff_time",
+      "parameter_name": "match_cutoff_time",
       "parameter_value": "14:00"
     },
     {
-      "parameter_name": "preferred_ko_earliest",
+      "parameter_name": "preferred_kickoff_earliest",
       "parameter_value": "10:00"
     },
     {
-      "parameter_name": "preferred_ko_latest",
+      "parameter_name": "preferred_kickoff_latest",
       "parameter_value": "13:30"
     },
     {
-      "parameter_name": "halftime_duration_min",
+      "parameter_name": "halftime_duration_minutes",
       "parameter_value": 5
     },
     {
-      "parameter_name": "game_spacing_min",
+      "parameter_name": "match_spacing_minutes",
       "parameter_value": 10
     },
     {
-      "parameter_name": "manager_confirmation_deadline",
-      "parameter_value": "Wednesday 14:00"
+      "parameter_name": "manager_confirmation_weekday",
+      "parameter_value": "Wednesday"
     },
     {
-      "parameter_name": "opposition_confirmation_day",
+      "parameter_name": "manager_confirmation_time",
+      "parameter_value": "14:00"
+    },
+    {
+      "parameter_name": "opposition_confirmation_weekday",
       "parameter_value": "Thursday"
     },
     {

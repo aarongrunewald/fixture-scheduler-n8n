@@ -1,0 +1,22 @@
+{
+  "schedule_run_log": [
+    {
+      "run_id": "wf2-demo-2026-09-06-001",
+      "run_started_at": "2026-09-01T14:05:00+01:00",
+      "match_date": "2026-09-06",
+      "match_count": 10,
+      "expected_team_count": 11,
+      "match_on_count": 8,
+      "match_off_count": 3,
+      "blocker_count": 1,
+      "warning_count": 2,
+      "is_schema_valid": true,
+      "is_qa_passed": false,
+      "is_review_required": true,
+      "persisted_row_count": 11,
+      "model_name": "gpt-5-mini",
+      "prompt_version": "wf2-scheduling-v1",
+      "run_notes": "Blocker: U18.4 expected to play but the league published no match. Warnings: U12.2G and U14.5 have no referee assigned. Off: U16.6 and U17.5 by request, U18.4 by missing league match."
+    }
+  ]
+}
