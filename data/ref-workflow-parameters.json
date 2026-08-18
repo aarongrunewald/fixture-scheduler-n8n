@@ -1,11 +1,19 @@
 {
   "workflow_parameters": [
     {
-      "parameter_name": "match_cutoff_weekday",
+      "parameter_name": "draft_schedule_deadline_weekday",
       "parameter_value": "Tuesday"
     },
     {
-      "parameter_name": "match_cutoff_time",
+      "parameter_name": "draft_schedule_deadline_time",
+      "parameter_value": "14:00"
+    },
+    {
+      "parameter_name": "opposition_schedule_deadline_weekday",
+      "parameter_value": "Thursday"
+    },
+    {
+      "parameter_name": "opposition_schedule_deadline_time",
       "parameter_value": "14:00"
     },
     {
@@ -15,6 +23,10 @@
     {
       "parameter_name": "preferred_kickoff_latest",
       "parameter_value": "13:30"
+    },
+    {
+      "parameter_name": "cup_kickoff_latest",
+      "parameter_value": "14:00"
     },
     {
       "parameter_name": "halftime_duration_minutes",

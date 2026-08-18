@@ -9,11 +9,6 @@
       "team_id": "U13.4",
       "preference_type": "timing",
       "preference_notes": "Prefer early kickoff if possible."
-    },
-    {
-      "team_id": "U16.1",
-      "preference_type": "pitch",
-      "preference_notes": "Prefer Herbert Park after several recent Brickfield assignments."
     }
   ]
 }
