@@ -6,7 +6,7 @@
       "pitch_group": "herbert-park",
       "supported_match_formats": ["11v11"],
       "kickoff_earliest": "12:00",
-      "kickoff_latest": "15:00",
+      "kickoff_latest": "14:30",
       "pitch_notes": "Preferred senior pitch; later start because of park availability."
     },
     {
@@ -14,8 +14,8 @@
       "pitch_name": "Herbert Park - Donnybrook",
       "pitch_group": "herbert-park",
       "supported_match_formats": ["9v9", "11v11"],
-      "kickoff_earliest": "09:00",
-      "kickoff_latest": "15:00",
+      "kickoff_earliest": "09:30",
+      "kickoff_latest": "14:30",
       "pitch_notes": "Flexible pitch for 9v9 and 11v11 matches."
     },
     {
@@ -23,8 +23,8 @@
       "pitch_name": "Herbert Park - Middle 1",
       "pitch_group": "herbert-park",
       "supported_match_formats": ["7v7"],
-      "kickoff_earliest": "09:00",
-      "kickoff_latest": "14:00",
+      "kickoff_earliest": "09:30",
+      "kickoff_latest": "14:30",
       "pitch_notes": "Small-sided pitch."
     },
     {
@@ -32,8 +32,8 @@
       "pitch_name": "Herbert Park - Middle 2",
       "pitch_group": "herbert-park",
       "supported_match_formats": ["7v7"],
-      "kickoff_earliest": "09:00",
-      "kickoff_latest": "14:00",
+      "kickoff_earliest": "09:30",
+      "kickoff_latest": "14:30",
       "pitch_notes": "Small-sided pitch."
     },
     {
@@ -41,8 +41,8 @@
       "pitch_name": "Brickfield",
       "pitch_group": "brickfield",
       "supported_match_formats": ["11v11"],
-      "kickoff_earliest": "09:00",
-      "kickoff_latest": "15:00",
+      "kickoff_earliest": "09:30",
+      "kickoff_latest": "14:30",
       "pitch_notes": "Secondary 11v11 pitch when Herbert Park capacity is tight."
     }
   ]

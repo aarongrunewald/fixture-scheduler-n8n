@@ -4,11 +4,14 @@
     { "team_id": "U12.2G", "age_group": "U12", "manager_ids": ["M003", "M004"] },
     { "team_id": "U13.3G", "age_group": "U13", "manager_ids": ["M005"] },
     { "team_id": "U13.4",  "age_group": "U13", "manager_ids": ["M006", "M007"] },
-    { "team_id": "U14.3",  "age_group": "U14", "manager_ids": ["M008"] },
+    { "team_id": "U14.1",  "age_group": "U14", "manager_ids": ["M017"] },
+    { "team_id": "U14.3",  "age_group": "U14", "manager_ids": ["M009"] },
     { "team_id": "U14.5",  "age_group": "U14", "manager_ids": ["M009"] },
     { "team_id": "U15.3",  "age_group": "U15", "manager_ids": ["M010", "M011"] },
+    { "team_id": "U15.7",  "age_group": "U15", "manager_ids": ["M010", "M001"] },
     { "team_id": "U16.1",  "age_group": "U16", "manager_ids": ["M012"] },
     { "team_id": "U16.6",  "age_group": "U16", "manager_ids": ["M013"] },
+    { "team_id": "U17.2",  "age_group": "U17", "manager_ids": ["M016"] },
     { "team_id": "U17.5",  "age_group": "U17", "manager_ids": ["M014"] },
     { "team_id": "U18.4",  "age_group": "U18", "manager_ids": ["M015"] }
   ]

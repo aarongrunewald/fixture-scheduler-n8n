@@ -89,6 +89,18 @@
       "manager_name": "O. Flynn",
       "manager_phone_number": "+353870001015",
       "manager_email": "aaron.grunewald+n8n_manager_o_flynn@gmail.com"
+    },
+    {
+      "manager_id": "M016",
+      "manager_name": "D. Sullivan",
+      "manager_phone_number": "+353870001016",
+      "manager_email": "aaron.grunewald+n8n_manager_d_sullivan@gmail.com"
+    },
+    {
+      "manager_id": "M017",
+      "manager_name": "R. Murray",
+      "manager_phone_number": "+353870001017",
+      "manager_email": "aaron.grunewald+n8n_manager_r_murray@gmail.com"
     }
   ]
 }
