@@ -8,7 +8,7 @@
       "competition": "League",
       "opposition_club": "Kilnamanagh AFC",
       "home_away": "home",
-      "referee_name": "P. Nolan"
+      "referee_name": "J. Byrne"
     },
     {
       "match_date": "2026-09-06",
@@ -17,7 +17,16 @@
       "competition": "League",
       "opposition_club": "Cambridge United",
       "home_away": "home",
-      "referee_name": "J. Byrne"
+      "referee_name": "T. Dooley"
+    },
+    {
+      "match_date": "2026-09-06",
+      "team_id": "U13.3G",
+      "age_group": "U13",
+      "competition": "League",
+      "opposition_club": "Terenure Rangers",
+      "home_away": "home",
+      "referee_name": "T. Dooley"
     },
     {
       "match_date": "2026-09-06",
@@ -35,16 +44,7 @@
       "competition": "League",
       "opposition_club": "Orwell Celtic",
       "home_away": "home",
-      "referee_name": "T. Dooley"
-    },
-    {
-      "match_date": "2026-09-06",
-      "team_id": "U15.3",
-      "age_group": "U15",
-      "competition": "League",
-      "opposition_club": "Crumlin United",
-      "home_away": "home",
-      "referee_name": "T. Dooley"
+      "referee_name": "M. Keane"
     },
     {
       "match_date": "2026-09-06",
@@ -53,7 +53,7 @@
       "competition": "Cup QF",
       "opposition_club": "Joeys FC",
       "home_away": "home",
-      "referee_name": "M. Keane"
+      "referee_name": "P. Nolan"
     }
   ]
 }

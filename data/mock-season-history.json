@@ -4,15 +4,15 @@
       "team_id": "U10.2",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 4
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 0
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -22,15 +22,15 @@
       "team_id": "U12.2G",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 1
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 3
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -40,15 +40,15 @@
       "team_id": "U13.3G",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 2
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 2
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -58,33 +58,51 @@
       "team_id": "U13.4",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 1
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 3
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
       "match_count_last_4_weeks": 2
     },
     {
-      "team_id": "U14.3",
+      "team_id": "U14.1",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 3
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 1
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 3
+    },
+    {
+      "team_id": "U14.3",
+      "pitch_distribution": [
+        {
+          "pitch_group": "herbert-park",
+          "match_count": 3
+        },
+        {
+          "pitch_group": "brickfield",
+          "match_count": 1
+        },
+        {
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -94,15 +112,15 @@
       "team_id": "U14.5",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 0
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 4
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -112,33 +130,51 @@
       "team_id": "U15.3",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 2
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 2
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
       "match_count_last_4_weeks": 3
     },
     {
+      "team_id": "U15.7",
+      "pitch_distribution": [
+        {
+          "pitch_group": "herbert-park",
+          "match_count": 0
+        },
+        {
+          "pitch_group": "brickfield",
+          "match_count": 4
+        },
+        {
+          "pitch_group": "other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 1
+    },
+    {
       "team_id": "U16.1",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 1
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 3
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -148,33 +184,51 @@
       "team_id": "U16.6",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 4
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 0
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
       "match_count_last_4_weeks": 4
     },
     {
+      "team_id": "U17.2",
+      "pitch_distribution": [
+        {
+          "pitch_group": "herbert-park",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "brickfield",
+          "match_count": 2
+        },
+        {
+          "pitch_group": "other",
+          "match_count": 0
+        }
+      ],
+      "match_count_last_4_weeks": 2
+    },
+    {
       "team_id": "U17.5",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 1
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 3
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
@@ -184,15 +238,15 @@
       "team_id": "U18.4",
       "pitch_distribution": [
         {
-          "pitch_group": "Herbert Park",
+          "pitch_group": "herbert-park",
           "match_count": 2
         },
         {
-          "pitch_group": "Brickfield",
+          "pitch_group": "brickfield",
           "match_count": 2
         },
         {
-          "pitch_group": "Other",
+          "pitch_group": "other",
           "match_count": 0
         }
       ],
